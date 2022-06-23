@@ -2,7 +2,7 @@
   "profiles": {
     "FilesAndStreams": {
       "commandName": "Project",
-      "commandLineArgs": "--file \"D:\\ASP.NET Core\\SourceCode\\FilesAndStreams\\psdata\\in\\data1.txt\""
+      "commandLineArgs": "--dir \"D:\\ASP.NET Core\\SourceCode\\FilesAndStreams\\psdata\\in\" TEXT"
     }
   }
 }
