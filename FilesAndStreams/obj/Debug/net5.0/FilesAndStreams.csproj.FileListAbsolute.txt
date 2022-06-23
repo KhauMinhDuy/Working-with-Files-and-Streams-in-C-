@@ -1,0 +1,16 @@
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\bin\Debug\net5.0\FilesAndStreams.exe
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\bin\Debug\net5.0\FilesAndStreams.deps.json
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\bin\Debug\net5.0\FilesAndStreams.runtimeconfig.json
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\bin\Debug\net5.0\FilesAndStreams.runtimeconfig.dev.json
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\bin\Debug\net5.0\FilesAndStreams.dll
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\bin\Debug\net5.0\ref\FilesAndStreams.dll
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\bin\Debug\net5.0\FilesAndStreams.pdb
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.csproj.AssemblyReference.cache
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.AssemblyInfoInputs.cache
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.AssemblyInfo.cs
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.dll
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\ref\FilesAndStreams.dll
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.pdb
+D:\ASP.NET Core\SourceCode\FilesAndStreams\FilesAndStreams\obj\Debug\net5.0\FilesAndStreams.genruntimeconfig.cache
